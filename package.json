@@ -1,0 +1,11 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dagadbm/cv.git",
+  "author": "dagadbm@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "resume-cli": "^1.2.8"
+  }
+}
