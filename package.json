@@ -7,5 +7,13 @@
   "license": "MIT",
   "dependencies": {
     "resume-cli": "^1.2.8"
+  },
+  "scripts": {
+    "init" : "resume init",
+    "test" : "resume test",
+    "serve": "resume serve",
+    "export:html" : "resume export resume --format html",
+    "export:pdf" : "resume export resume --format pdf",
+    "export:md" : "resume export resume --format md"
   }
 }
